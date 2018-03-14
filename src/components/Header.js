@@ -7,7 +7,7 @@ const Header = () => (
        <hr/> 
        <ul>
            <li>escuchar musica</li>
-           <li>pinta</li>
+           <li>pintar</li>
            <li>cantar</li>
         </ul>     
     </div>
